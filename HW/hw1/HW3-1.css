@@ -1,0 +1,115 @@
+a:link{
+	color: rgb(226, 196, 131); 
+}  
+ 
+ a:visited{
+	color: #6399df; 
+}  
+  
+a:hover{ 
+	color: #e9b2e9; 
+}  
+
+h2{
+    background-color:rgb(206, 160, 100);
+    color: rgb(0, 0, 0);
+    font-family: mali-Medium;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+h3{
+    background-color:rgb(236, 185, 117);
+    color: rgb(0, 0, 0);
+    font-family: mali-Medium;
+    margin-left: 10px;
+    margin-right: 800px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+span{
+    background-color: rgb(255, 196, 0);
+}
+
+body{
+    background-color: rgb(248, 238, 230);
+}
+
+.pic1{
+    width: 15%;
+    border: 5px dotted rgb(139, 95, 54);
+    border-radius: 60px;
+    vertical-align: middle;
+}
+
+.pic2{
+    width: 15%;
+    border: 5px dotted rgb(139, 95, 54);
+    border-radius: 60px;
+    vertical-align: middle;
+}
+
+div{
+    text-align: center;
+}
+
+p{
+    color: rgb(131, 79, 1);
+}
+
+.Setpic{
+    
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fae8d8;
+    border: 5px dotted rgb(180, 107, 11) ;
+    object-fit: cover;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    }
+
+.Setpic> .left {
+    width: 300px;
+    height: 100%;
+    margin-left: 10px;
+    margin-right: 5px;
+ }
+
+.Setpic> .center{
+    width:300px;
+    height:100%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.Setpic> .center-2{
+    width:300px;
+    height:100%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.Setpic> .right {
+    width: 300px;
+    height: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+ }
+
+.pic52{
+    width: 200px;
+    height: 100%;
+    display: inline-block; 
+    border: solid 4px #654321;
+}
+
+.pic53{
+    width: 216px;
+    height: 100%;
+    display: inline-block; 
+    border: solid 4px #654321;
+}
